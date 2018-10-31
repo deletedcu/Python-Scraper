@@ -1,0 +1,1976 @@
+[
+    {
+        "name": "Banku",
+        "restaurantID": 1,
+        "salePrice": "$14.00",
+        "description": "With Okro Stew,Peanut Or Tilapia"
+    },
+    {
+        "name": "Omotuo with Peanut Soup",
+        "restaurantID": 1,
+        "salePrice": "$14.00",
+        "description": ""
+    },
+    {
+        "name": "Fufuo",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": "with Peanut Or Light Soup"
+    },
+    {
+        "name": "Deehuo",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Jollof",
+        "restaurantID": 1,
+        "salePrice": "$12.00",
+        "description": ""
+    },
+    {
+        "name": "Fried Rice",
+        "restaurantID": 1,
+        "salePrice": "$12.00",
+        "description": ""
+    },
+    {
+        "name": "Waakye",
+        "restaurantID": 1,
+        "salePrice": "$14.00",
+        "description": ""
+    },
+    {
+        "name": "Ampesie",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Yam",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Plantain",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Fried Plantain and Beans",
+        "restaurantID": 1,
+        "salePrice": "$13.00",
+        "description": ""
+    },
+    {
+        "name": "Fried Yams",
+        "restaurantID": 1,
+        "salePrice": "$15.00",
+        "description": ""
+    },
+    {
+        "name": "Akrakro and Beans",
+        "restaurantID": 1,
+        "salePrice": "$14.00",
+        "description": ""
+    },
+    {
+        "name": "Jollof",
+        "restaurantID": 1,
+        "salePrice": "$20.00",
+        "description": ""
+    },
+    {
+        "name": "Fried Rice",
+        "restaurantID": 1,
+        "salePrice": "$20.00",
+        "description": ""
+    },
+    {
+        "name": "Chicken: Grilled Or Fried",
+        "restaurantID": 1,
+        "salePrice": "$35.00",
+        "description": "Grilled Or Fried"
+    },
+    {
+        "name": "Tilapia: Grilled Or Fried",
+        "restaurantID": 1,
+        "salePrice": "$45.00",
+        "description": "Grilled Or Fried"
+    },
+    {
+        "name": "Coca-Cola",
+        "restaurantID": 1,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Diet Coke",
+        "restaurantID": 1,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Sprite",
+        "restaurantID": 1,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Ginger Ale",
+        "restaurantID": 1,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "MR. GREEK Bottled Salad Dressing (80 Cals per 15ml serving)",
+        "restaurantID": 2,
+        "salePrice": "$4.50",
+        "description": "Bring home our long-awaited Signature Greek salad dressing and dress your salad right! Fresh, healthy and naturally Mediterranean."
+    },
+    {
+        "name": "MR. GREEK Fried Kalamari (260-300 Cals/serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$12.00",
+        "description": "Dusted in seasoned flour and lightly fried. One taste and you'll know why we're Canada's favourite kalamari. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "MR. GREEK Grilled Kalamari (190-230 Cals/serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$12.00",
+        "description": "Served with freshly saut\u00e9ed peppers and onions. Generously drizzled with extra virgin olive oil and served with a fresh, juicy, grilled lemon. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "Chicken Souvlaki Stick (170 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.75",
+        "description": "Fire-grilled chicken souvlaki stick served traditionally with fresh Vienna bread and tzatziki."
+    },
+    {
+        "name": "Pork Souvlaki Stick (290 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.75",
+        "description": "Fire-grilled pork souvlaki stick served traditionally with fresh Vienna bread and tzatziki."
+    },
+    {
+        "name": "Spanakopita Appetizer (410 Cals /serving; serves 2)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "A delicious, freshly baked spinach pie with onions, leeks, herbs, feta & mizithra cheese cooked in delicate phyllo pastry."
+    },
+    {
+        "name": "Spanakopita & Salad (1130 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$11.00",
+        "description": "A delicious, freshly baked spinach pie with herbs and feta cooked in a delicate phyllo pastry. Served with a side Signature Greek salad."
+    },
+    {
+        "name": "Tiropita Appetizer (370 Cals /serving; serves 2)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "A scrumptious, savoury phyllo pastry pie oozing with feta & mizithra cheese filling."
+    },
+    {
+        "name": "Tiropita & Salad (1040 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$11.00",
+        "description": "A delicious freshly baked pastry pie with feta cheese filling. Served with a side Signature Greek salad."
+    },
+    {
+        "name": "Mediterranean Spinach & Cheese Dip (130 Cals /serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$8.00",
+        "description": "A fresh creamy blend of spinach, grilled artichokes and roasted red pepper, melted together with cheddar, cream and Romano cheeses. Served hot with a grilled pita."
+    },
+    {
+        "name": "Dips Trio (210 Cals /serving; serves 6)",
+        "restaurantID": 2,
+        "salePrice": "$13.00",
+        "description": "A shareable platter of tzatziki, hummus & tirokafteri. Also available individually. Served with a grilled pita."
+    },
+    {
+        "name": "Tzatziki Appetizer (100 Cals /serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$6.50",
+        "description": "An authentic recipe of pressed yogurt mixed with zesty fresh garlic and cucumber. Served with a grilled pita."
+    },
+    {
+        "name": "Hummus Appetizer (100 Cals /serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$6.50",
+        "description": "A pur\u00e9e of freshly prepared garbanzo beans and tahini enhanced with a hint of garlic, fresh lemon juice and extra virgin olive oil. Served with a grilled pita."
+    },
+    {
+        "name": "Tirokafteri (Spicy Feta) Appetizer (110 Cals/ serving; serves 4)",
+        "restaurantID": 2,
+        "salePrice": "$8.50",
+        "description": "A mildly spicy crumbled feta spread with fresh roasted peppers, caramelized onions and roasted garlic with a hint of hot cherry peppers. Served with a grilled pita."
+    },
+    {
+        "name": "Signature Greek Salad (770-910 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$9.50",
+        "description": "Iceberg and romaine lettuce mixed with red cabbage, carrots, red onion and MR. GREEK dressing. Topped with Kalamata olives, cucumber, tomato, fresh oregano and feta. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "Chicken Greek Salad (940-1080 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$13.50",
+        "description": "Marinated fire-grilled chicken filet served over Signature Greek Salad. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "Village Salad (750-890 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$11.00",
+        "description": "Capture the colour of the Mediterranean with fresh hot house tomato, cucumber, green pepper, red onion, feta, Kalamata olives, extra virgin olive oil and fresh parsley. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "Chicken Village Salad (920-1080 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$15.00",
+        "description": "Marinated fire-grilled chicken filet over our Village Salad. Served with a choice of grilled pita or garlic bread."
+    },
+    {
+        "name": "Ikaria Salad (1100-1330 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$11.00",
+        "description": "A wholesome chickepea salad. Tossed with red and yellow peppers, cucumbers, shredded parsley, red onions, feta and dried cranberries on a bed of arugula. Dressed with olive oil, fresh lemon and local Ontario honey. Served with grilled pita or garlic bread."
+    },
+    {
+        "name": "Fak\u00e9s (Lentil) Soup (510 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "A hearty & popular soup with just the right amount of fresh herbs & spices."
+    },
+    {
+        "name": "Fasolada (Navy Bean) Soup (210 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "A traditional Greek soup made with navy beans & vegetables."
+    },
+    {
+        "name": "Soup & Salad (520-820 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$12.00",
+        "description": "Your choice of fasolada (navy bean) soup or lentil soup and a side Greek salad."
+    },
+    {
+        "name": "Pork Souvlaki Pita (580-680 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$8.00",
+        "description": "Two fire-grilled pork sticks wrapped with tzatziki, red onion and tomato."
+    },
+    {
+        "name": "Chicken Souvlaki Pita (440-540 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$8.00",
+        "description": "Two fire-grilled chicken sticks wrapped with tzatziki, red onion and tomato."
+    },
+    {
+        "name": "Traditional Gyro Pita (680-780 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$7.00",
+        "description": "Seasoned and thinly sliced rotisserie roasted lamb and beef, wrapped with tzatziki, red onion & tomato."
+    },
+    {
+        "name": "Chicken Gyro Pita (280-380 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$7.00",
+        "description": "Seasoned and thinly sliced rotisserie roasted chicken gyro, wrapped with tzatziki, red onion & tomato."
+    },
+    {
+        "name": "Veggie Pita (280-580 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "Cucumbers, lettuce, tomatoes, feta, green peppers, red onion and tzatziki."
+    },
+    {
+        "name": "Falafel Pita (490-590 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": "Crispy vegetarian fritters made from ground chickpeas mixed with herbs & spices; with hummus, red onions, green peppers, tomatoes & feta."
+    },
+    {
+        "name": "Ikaria Salad Wrap (840 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$8.00",
+        "description": "A high protein wrap filled with Ikaria chickpea salad, arugula, rice and tirokafteri (spicy feta)."
+    },
+    {
+        "name": "Chicken Greek Wrap (780 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$8.00",
+        "description": "Marinated fire-grilled chicken filet, tzatziki and Signature Greek Salad wrapped in a spinach garlic pesto tortilla."
+    },
+    {
+        "name": "The Classic Burger (700 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$8.50",
+        "description": "Tomato, lettuce & red onion."
+    },
+    {
+        "name": "The Hercules Burger (830 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$10.00",
+        "description": "Mushrooms, lettuce, tzatziki & feta."
+    },
+    {
+        "name": "Spartan Burger (800 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$10.50",
+        "description": "Tirokafteri (spicy feta), lettuce, tomato & caramelized onions."
+    },
+    {
+        "name": "Classic Chicken Souvlaki (830-940 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Tender souvlaki chunks of chicken, specially marinated and fire-grilled. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Classic Pork Souvlaki (880-1020 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Tender souvlaki chunks of pork, specially marinated and fire-grilled. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Classic Lamb Souvlaki (890-1030 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$20.00",
+        "description": "Tender souvlaki chunks of lamb, specially marinated and grilled to your liking. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Beef Tenderloin Souvlaki (950-1290 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$20.00",
+        "description": "Hand-cut premium beef tenderloin, red onion, green & red peppers. Grilled to your liking. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Classic Traditional Gyro (1410-1520 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Seasoned lamb and beef, rotisserie roasted and thinly sliced. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Classic Chicken Gyro (1250-1390 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Seasoned chicken, rotisserie roasted and thinly sliced. Served with your choice of two sides, Signature Greek salad, grilled pita or garlic bread, & tzatziki."
+    },
+    {
+        "name": "Original Pork Souvlaki (950-1080 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$16.00",
+        "description": "Three fire-grilled pork souvlaki sticks. Served with your choice of one side, Signature Greek salad, grilled pita or garlic bread & tzatziki."
+    },
+    {
+        "name": "Original Chicken Souvlaki (750-880 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$15.00",
+        "description": "Two fire-grilled chicken souvlaki sticks. Served with your choice of one side, Signature Greek salad, grilled pita or garlic bread & tzatziki."
+    },
+    {
+        "name": "Original Traditional Gyro (1210-1350 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$15.00",
+        "description": "Seasoned lamb and beef, rotisserie roasted and thinly sliced. Served with your choice of one side, Signature Greek salad, grilled pita or garlic bread & tzatziki."
+    },
+    {
+        "name": "Original Chicken Gyro (1120-1260 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$15.00",
+        "description": "Rotisserie roasted seasoned chicken, thinly sliced. Served with your choice of one side, Signature Greek salad, grilled pita or garlic bread & tzatziki."
+    },
+    {
+        "name": "Vegetable Souvlaki (860-990 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$16.00",
+        "description": "Fresh grilled eggplant, zucchini, mushrooms, peppers and red onions on a skewer with two fresh tomatoes topped with feta and baked. Served with rice, and grilled pita or garlic bread."
+    },
+    {
+        "name": "Falafel Plate (750-890 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$13.00",
+        "description": "Crispy vegetarian fritters made from ground chickpeas mixed with herbs & spices. Served with Signature Greek salad, your choice of one side, tzatziki, & grilled pita or garlic bread."
+    },
+    {
+        "name": "Veggie Plate (590-730 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$11.00",
+        "description": "Our Signature Greek salad served with your choice of two sides, tzatziki, & grilled pita or garlic bread."
+    },
+    {
+        "name": "Fried Kalamari Dinner (1510-1650 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Dusted in seasoned flour and lightly fried. Served with MR. GREEK rice, roasted seasonal vegetables and a grilled pita or garlic bread."
+    },
+    {
+        "name": "Grilled Kalamari Dinner (1220-1380 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$18.00",
+        "description": "Tender and grilled over an open flame. Served with freshly saut\u00e9ed peppers and onions. Generously drizzled with extra virgin olive oil and served with a fresh, juicy, grilled lemon. Served with MR. GREEK rice, roasted seasonal vegetables and a grilled pita or garlic bread."
+    },
+    {
+        "name": "Yiayia's Moussaka (1490 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$16.00",
+        "description": "Prepared fresh daily with layers of baked eggplant, zucchini, potatoes, fresh herbs, lean seasoned ground beef and a creamy b\u00e9chamel sauce. Served with Signature Greek salad and MR. GREEK Rice."
+    },
+    {
+        "name": "Keftedes Me Saltsa Domata (1040 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$13.00",
+        "description": "Hand-rolled meatballs made with fresh, lean ground beef, red onion & garden fresh herbs, smothered in homemade tomato sauce & served over rice or french fries, topped with grated Kefalograviera cheese."
+    },
+    {
+        "name": "Bifteki Monastiraki (1570-1710 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$14.00",
+        "description": "A well-loved traditional street eat: three signature bifteki hand-crafted from premium ground beef seasoned with exclusive spices; fresh diced tomatoes & red onions drizzled with olive oil & oregano; paired with seasoned fries topped with crumbled feta."
+    },
+    {
+        "name": "Pikilia For Two (1350-2020 Cals /serving; serves 2)",
+        "restaurantID": 2,
+        "salePrice": "$32.99",
+        "description": "Each pikilia comes with two biftekia, two souvlaki sticks (choice of chicken or pork), chicken gyro, traditional (beef & lamb) gyro, a small Greek salad, and your choice of two small sides. Served with tomato & red onion garnish, a large tzatziki and two pitas hot off our grill!"
+    },
+    {
+        "name": "Fire-Grilled Chicken Filets (790-930 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$17.00",
+        "description": "Two juicy marinated, fire-grilled chicken filets. Served with MR. GREEK Potatoes, roasted seasonal vegetables and a grilled pita or garlic bread."
+    },
+    {
+        "name": "MR. GREEK Rice",
+        "restaurantID": 2,
+        "salePrice": "$7.00",
+        "description": ""
+    },
+    {
+        "name": "MR. GREEK Potatoes",
+        "restaurantID": 2,
+        "salePrice": "$7.00",
+        "description": ""
+    },
+    {
+        "name": "Roasted Seasonal Vegetables",
+        "restaurantID": 2,
+        "salePrice": "$7.00",
+        "description": ""
+    },
+    {
+        "name": "French Fries",
+        "restaurantID": 2,
+        "salePrice": "$6.00",
+        "description": ""
+    },
+    {
+        "name": "MR. GREEK Fries (820 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$4.00",
+        "description": ""
+    },
+    {
+        "name": "Feta & Oregano Fries (760 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$4.00",
+        "description": ""
+    },
+    {
+        "name": "Grilled Pita Bread (200-210 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Extra Feta (90 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Extra Tzatziki (50 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Extra Hummus (50 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Extra Tirokafteri (70 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Extra Kalamata Olives (80 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.00",
+        "description": ""
+    },
+    {
+        "name": "Tzatziki",
+        "restaurantID": 2,
+        "salePrice": "$12.00",
+        "description": ""
+    },
+    {
+        "name": "Homestyle Greek Baklava (440 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$4.50",
+        "description": "Hand-made with fresh phyllo pastry, clarified butter, pure honey, zesty lemon and premium walnuts and almonds. One bite is never enough!"
+    },
+    {
+        "name": "Kataifi (440 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$4.50",
+        "description": "A delightful pastry with a nutty centre rolled inside crisp, thread-like pastry (angel hair or kataifi), baked until golden in local Ontario honey with a hint of lemon."
+    },
+    {
+        "name": "Greek Yogurt Cheesecake (390 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$5.50",
+        "description": "Our specially formulated in-house creamy cheesecake prepared with real Greek yogurt set on a walnut, honey graham cracker crumb base; slow-baked and drizzled with local Ontario honey."
+    },
+    {
+        "name": "Bougatsa (330 Cals /serving; serves 2)",
+        "restaurantID": 2,
+        "salePrice": "$4.95",
+        "description": "Warm, golden fluffy phyllo pastry filled with mildly sweetened semolina custard."
+    },
+    {
+        "name": "Kourambiethes",
+        "restaurantID": 2,
+        "salePrice": "$0.99",
+        "description": "Traditional butter almond cookies blanketed with powdered sugar."
+    },
+    {
+        "name": "Kourambiethes Me Sokolata",
+        "restaurantID": 2,
+        "salePrice": "$1.19",
+        "description": "Traditional butter almond cookies covered with chocolate."
+    },
+    {
+        "name": "Coca-Cola (200 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Diet Coke",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Coke Zero",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Sprite (200 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Canada Dry Ginger Ale (190 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Barq's Root Beer (220 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Fanta Orange (100 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Nestea Lemon (160 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Nestea Lemon Zero",
+        "restaurantID": 2,
+        "salePrice": "$2.65",
+        "description": ""
+    },
+    {
+        "name": "Minute Maid Orange Juice (220 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.75",
+        "description": ""
+    },
+    {
+        "name": "Minute Maid Apple Juice (210 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.75",
+        "description": ""
+    },
+    {
+        "name": "Vitamin Water XXX (120 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.95",
+        "description": "Acai-Blueberry-Pomegranate"
+    },
+    {
+        "name": "Vitamin Water XOXOX Zero",
+        "restaurantID": 2,
+        "salePrice": "$2.95",
+        "description": "Acai-Blueberry-Pomegranate"
+    },
+    {
+        "name": "Vitamin Water Multi-V (120 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.95",
+        "description": "Lemonade"
+    },
+    {
+        "name": "Vitamin Water Essential (120 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$2.95",
+        "description": "Orange-Orange"
+    },
+    {
+        "name": "MR. GREEK Spring Water",
+        "restaurantID": 2,
+        "salePrice": "$1.85",
+        "description": ""
+    },
+    {
+        "name": "Dasani Water",
+        "restaurantID": 2,
+        "salePrice": "$2.10",
+        "description": ""
+    },
+    {
+        "name": "Milk (120 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.85",
+        "description": ""
+    },
+    {
+        "name": "Chocolate Milk (150 Cals)",
+        "restaurantID": 2,
+        "salePrice": "$1.85",
+        "description": ""
+    },
+    {
+        "name": "Teriyaki Tofu",
+        "restaurantID": 4,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Chimichurri Chicken",
+        "restaurantID": 4,
+        "salePrice": "$9.29",
+        "description": ""
+    },
+    {
+        "name": "Thai Lime Chicken",
+        "restaurantID": 4,
+        "salePrice": "$9.29",
+        "description": ""
+    },
+    {
+        "name": "Mexican Spicy Chicken",
+        "restaurantID": 4,
+        "salePrice": "$10.29",
+        "description": ""
+    },
+    {
+        "name": "Lemon Basa Fillet",
+        "restaurantID": 4,
+        "salePrice": "$12.29",
+        "description": ""
+    },
+    {
+        "name": "Teriyaki Chicken",
+        "restaurantID": 4,
+        "salePrice": "$9.29",
+        "description": ""
+    },
+    {
+        "name": "Souvlaki Chicken",
+        "restaurantID": 4,
+        "salePrice": "$10.29",
+        "description": ""
+    },
+    {
+        "name": "Grilled Shrimp",
+        "restaurantID": 4,
+        "salePrice": "$12.29",
+        "description": ""
+    },
+    {
+        "name": "White Jasmine Rice",
+        "restaurantID": 4,
+        "salePrice": "$2.99",
+        "description": ""
+    },
+    {
+        "name": "Bowtie Pasta",
+        "restaurantID": 4,
+        "salePrice": "$5.99",
+        "description": ""
+    },
+    {
+        "name": "Brown Rice",
+        "restaurantID": 4,
+        "salePrice": "$4.99",
+        "description": ""
+    },
+    {
+        "name": "Mandarin Spring Salad",
+        "restaurantID": 4,
+        "salePrice": "$7.59",
+        "description": ""
+    },
+    {
+        "name": "Bowtie Pasta Salad",
+        "restaurantID": 4,
+        "salePrice": "$8.29",
+        "description": ""
+    },
+    {
+        "name": "Caesar Salad",
+        "restaurantID": 4,
+        "salePrice": "$7.59",
+        "description": ""
+    },
+    {
+        "name": "Minestrone",
+        "restaurantID": 4,
+        "salePrice": "$4.29",
+        "description": ""
+    },
+    {
+        "name": "Chicken Noodle Soup",
+        "restaurantID": 4,
+        "salePrice": "$5.29",
+        "description": ""
+    },
+    {
+        "name": "Sweet Corn",
+        "restaurantID": 4,
+        "salePrice": "$5.29",
+        "description": ""
+    },
+    {
+        "name": "Yam Fries",
+        "restaurantID": 4,
+        "salePrice": "$4.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Finger",
+        "restaurantID": 4,
+        "salePrice": "$6.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Souvlaki",
+        "restaurantID": 4,
+        "salePrice": "$6.99",
+        "description": ""
+    },
+    {
+        "name": "Shrimp Skewer",
+        "restaurantID": 4,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Hummus Tahini",
+        "restaurantID": 6,
+        "salePrice": "$9.59",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Falafel",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Mesabaha",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Fava Bean",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Mushroom",
+        "restaurantID": 6,
+        "salePrice": "$13.19",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Shakshuka",
+        "restaurantID": 6,
+        "salePrice": "$13.19",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Hummus Shawarma",
+        "restaurantID": 6,
+        "salePrice": "$16.79",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "French Fries",
+        "restaurantID": 6,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Cigars Plate",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Falafel Plate",
+        "restaurantID": 6,
+        "salePrice": "$9.59",
+        "description": ""
+    },
+    {
+        "name": "Two Veggie Skewers",
+        "restaurantID": 6,
+        "salePrice": "$9.59",
+        "description": ""
+    },
+    {
+        "name": "Stickchips",
+        "restaurantID": 6,
+        "salePrice": "$4.79",
+        "description": ""
+    },
+    {
+        "name": "Israeli Salad",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Tabuli Salad",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Baba Ganoush",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Olives Salad",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Matbuha Salad",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Seasonal Salad",
+        "restaurantID": 6,
+        "salePrice": "$13.19",
+        "description": ""
+    },
+    {
+        "name": "Combo Salad (4 Choices)",
+        "restaurantID": 6,
+        "salePrice": "$15.79",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Shakshuka Stylish",
+        "restaurantID": 6,
+        "salePrice": "$14.39",
+        "description": ""
+    },
+    {
+        "name": "Shakshuka Merges Stylish",
+        "restaurantID": 6,
+        "salePrice": "$16.79",
+        "description": ""
+    },
+    {
+        "name": "Sabich Plate",
+        "restaurantID": 6,
+        "salePrice": "$14.39",
+        "description": "Served with complimentary Laffa Bread"
+    },
+    {
+        "name": "Grilled Eggplant",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Sambuksasi",
+        "restaurantID": 6,
+        "salePrice": "$10.79",
+        "description": ""
+    },
+    {
+        "name": "Rainbow Trout Fillet (Oven Baked)",
+        "restaurantID": 6,
+        "salePrice": "$21.59",
+        "description": ""
+    },
+    {
+        "name": "Tilapia Fillet (Cooked)",
+        "restaurantID": 6,
+        "salePrice": "$19.19",
+        "description": ""
+    },
+    {
+        "name": "Sabich",
+        "restaurantID": 6,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Falafel",
+        "restaurantID": 6,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Shawarma",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Schnitzel",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Kebab",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Breast",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Dark",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Salad",
+        "restaurantID": 6,
+        "salePrice": "$16.79",
+        "description": ""
+    },
+    {
+        "name": "Chicken Schnitzel",
+        "restaurantID": 6,
+        "salePrice": "$21.59",
+        "description": ""
+    },
+    {
+        "name": "Chicken Breast",
+        "restaurantID": 6,
+        "salePrice": "$23.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Dark",
+        "restaurantID": 6,
+        "salePrice": "$23.99",
+        "description": ""
+    },
+    {
+        "name": "Shawarma",
+        "restaurantID": 6,
+        "salePrice": "$23.99",
+        "description": ""
+    },
+    {
+        "name": "Kebab",
+        "restaurantID": 6,
+        "salePrice": "$23.99",
+        "description": ""
+    },
+    {
+        "name": "Rib Eye Steak",
+        "restaurantID": 6,
+        "salePrice": "$35.99",
+        "description": ""
+    },
+    {
+        "name": "Rack Of Lamb",
+        "restaurantID": 6,
+        "salePrice": "$41.99",
+        "description": ""
+    },
+    {
+        "name": "Double Mini Burgers",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Fingers",
+        "restaurantID": 6,
+        "salePrice": "$11.99",
+        "description": ""
+    },
+    {
+        "name": "Falafel Kids",
+        "restaurantID": 6,
+        "salePrice": "$9.59",
+        "description": ""
+    },
+    {
+        "name": "Laffasushi",
+        "restaurantID": 6,
+        "salePrice": "$9.59",
+        "description": ""
+    },
+    {
+        "name": "Turkish Coffee",
+        "restaurantID": 6,
+        "salePrice": "$3.59",
+        "description": ""
+    },
+    {
+        "name": "Iraqish Tea",
+        "restaurantID": 6,
+        "salePrice": "$3.59",
+        "description": ""
+    },
+    {
+        "name": "Coke",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Diet Coke",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Coke Zero",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Sprite",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Diet Sprite",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Canada Dry",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Nestea",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Green Coke Life",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Orange Fanta",
+        "restaurantID": 6,
+        "salePrice": "$2.40",
+        "description": ""
+    },
+    {
+        "name": "Coke (Glass Bottle)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Diet Coke (Glass Bottle)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Sprite (Glass Bottle)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Orange Fanta (Glass Bottle)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Strawberry (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Banana (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Mango (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Grape (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Apple (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Peach (Spring Juice)",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Maltstar",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": "Black beer, non-alcoholic"
+    },
+    {
+        "name": "Perrier",
+        "restaurantID": 6,
+        "salePrice": "$3.60",
+        "description": ""
+    },
+    {
+        "name": "Fish Maw Soup",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Wonton Soup",
+        "restaurantID": 7,
+        "salePrice": "$8.50",
+        "description": ""
+    },
+    {
+        "name": "Spicy and Sour Seafood Soup",
+        "restaurantID": 7,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Minced Beef with Egg White Soup",
+        "restaurantID": 7,
+        "salePrice": "$7.50",
+        "description": ""
+    },
+    {
+        "name": "Health Soup",
+        "restaurantID": 7,
+        "salePrice": "$9.99",
+        "description": "Corn, pumpkin and pea sprouts"
+    },
+    {
+        "name": "Veggie Spring Roll (3 Pieces)",
+        "restaurantID": 7,
+        "salePrice": "$7.49",
+        "description": ""
+    },
+    {
+        "name": "Shredded Potato",
+        "restaurantID": 7,
+        "salePrice": "$7.49",
+        "description": ""
+    },
+    {
+        "name": "Beef and Tripe with Chili Oil",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Radish",
+        "restaurantID": 7,
+        "salePrice": "$2.99",
+        "description": ""
+    },
+    {
+        "name": "Green Onion Pan Cake",
+        "restaurantID": 7,
+        "salePrice": "$7.49",
+        "description": "Meats (chicken, beef and pork)"
+    },
+    {
+        "name": "Sweet and Sour Chicken",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Chicken with Loofah and Fungus",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Chicken with Mushroom, Ginger and",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": "Onions"
+    },
+    {
+        "name": "Chicken with Broccoli",
+        "restaurantID": 7,
+        "salePrice": "$14.99",
+        "description": ""
+    },
+    {
+        "name": "Black Bean Chicken",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Diced Beef with Honey Pepper Sauce",
+        "restaurantID": 7,
+        "salePrice": "$15.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Beef with Mushroom and Onions",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Satay Gai Lan (Chinese Broccoli) Beef",
+        "restaurantID": 7,
+        "salePrice": "$14.49",
+        "description": ""
+    },
+    {
+        "name": "Sweet and Sour Pork",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Pork Jowl and Okra with XO Sauce",
+        "restaurantID": 7,
+        "salePrice": "$15.99",
+        "description": ""
+    },
+    {
+        "name": "Drunken Ribs with Taro",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Salt and Pepper Pork Chop",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Braised Tofu with Assorted Meats",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Tiger Prawn Shrimp with Broccoli",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Clam with Black Bean Sauce",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Cashew Nuts Shrimp",
+        "restaurantID": 7,
+        "salePrice": "$17.49",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Assorted Seafood with Vegetables",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Bitter Melon and Fish Fillets with",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": "Black Bean Sauce"
+    },
+    {
+        "name": "Deep Fried Eels with Honey Pepper Sauce",
+        "restaurantID": 7,
+        "salePrice": "$27.99",
+        "description": ""
+    },
+    {
+        "name": "Deep Fried Scallop",
+        "restaurantID": 7,
+        "salePrice": "$22.99",
+        "description": ""
+    },
+    {
+        "name": "Salt and Pepper Squid",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Ginger and Green Onion Oyster",
+        "restaurantID": 7,
+        "salePrice": "$20.00",
+        "description": ""
+    },
+    {
+        "name": "Small Lobster",
+        "restaurantID": 7,
+        "salePrice": "$25.99",
+        "description": "Choice between : Ginger and Green Onion Sauce, Salt and Pepper Sauce, Black Bean Sauce, Hong Kong style Sauce or Maggi Soy Sauce)"
+    },
+    {
+        "name": "Vancouver Crab",
+        "restaurantID": 7,
+        "salePrice": "$39.99",
+        "description": "Choice between : Ginger and Green Onion Sauce, Salt and Pepper Sauce, Black Bean Sauce, Hong Kong style Sauce or Maggi Soy Sauce)"
+    },
+    {
+        "name": "Szechuan Style Tilapia Fish with Pickled",
+        "restaurantID": 7,
+        "salePrice": "$32.99",
+        "description": "In spicy and sour broth"
+    },
+    {
+        "name": "Szechuan Twice-Cooked Pork",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Kung Pao Chicken",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Spicy Deep Fried Chicken",
+        "restaurantID": 7,
+        "salePrice": "$17.49",
+        "description": ""
+    },
+    {
+        "name": "Spicy and Sour Shredded Potato",
+        "restaurantID": 7,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Cumin Lamb",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Mapo Tofu",
+        "restaurantID": 7,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Shredded Pork with Chili and Garlic",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Spicy Cabbage",
+        "restaurantID": 7,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Pea Sprouts with King Mushroom",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Braised Jade Tofu with Broccoli and Mix Mushrooms",
+        "restaurantID": 7,
+        "salePrice": "$19.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Mix Vegetables",
+        "restaurantID": 7,
+        "salePrice": "$15.99",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Gai Lan (Chinese Broccoli)",
+        "restaurantID": 7,
+        "salePrice": "$14.49",
+        "description": "With ginger sauce"
+    },
+    {
+        "name": "Spicy String Bean",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Stir Fried Baby Bok Choy with Garlic",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Braised Eggplant with Minced Beef",
+        "restaurantID": 7,
+        "salePrice": "$11.49",
+        "description": ""
+    },
+    {
+        "name": "Steamed Rice",
+        "restaurantID": 7,
+        "salePrice": "$2.50",
+        "description": ""
+    },
+    {
+        "name": "Garlic Seafood Fried Rice",
+        "restaurantID": 7,
+        "salePrice": "$17.49",
+        "description": ""
+    },
+    {
+        "name": "Chicken Fried Rice",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Beef Fried Rice",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": ""
+    },
+    {
+        "name": "Young Chow Fried Rice",
+        "restaurantID": 7,
+        "salePrice": "$12.99",
+        "description": "BBQ pork and shrimp"
+    },
+    {
+        "name": "Stir Fried Beef with Flat Rice Noodle",
+        "restaurantID": 7,
+        "salePrice": "$14.49",
+        "description": ""
+    },
+    {
+        "name": "Singapore Curry Vermicelli",
+        "restaurantID": 7,
+        "salePrice": "$14.49",
+        "description": "BBQ Pork and shrimp"
+    },
+    {
+        "name": "Cantonese Chow Mein",
+        "restaurantID": 7,
+        "salePrice": "$14.99",
+        "description": ""
+    },
+    {
+        "name": "Combo For 2",
+        "restaurantID": 7,
+        "salePrice": "$59.99",
+        "description": "Soup of the day\r\nFried lobster with maggie soy sauce\r\nStir fried diced beef with honey pepper sauce\r\nBaby bok choy with garlic"
+    },
+    {
+        "name": "Combo For 3",
+        "restaurantID": 7,
+        "salePrice": "$82.99",
+        "description": "Szechuan style tilapia fish in spicy and sour pickled broth\r\nHong Kong style Vancouver crab\r\nFried lobster with maggie soy sauce\r\nStir fried bok choy with garlic"
+    },
+    {
+        "name": "Combo For 4",
+        "restaurantID": 7,
+        "salePrice": "$98.00",
+        "description": "Soup of the day\r\nDrunken ribs with taro\r\nDouble Hong Kong style lobsters (2 small lobsters)\r\nHoney pepper deep fried fish fillet\r\nMushroom egg fried rice"
+    },
+    {
+        "name": "Large Lobster Combo",
+        "restaurantID": 7,
+        "salePrice": "$189.00",
+        "description": "Hong Kong style 5lbs big lobster (a little spicy)\r\nStir fried diced beef with mushroom and garlic\r\nStir fried broccoli with garlic\r\nLobster roe fried rice"
+    },
+    {
+        "name": "Coca-Cola",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "Diet Coca-Cola",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "Sprite",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "Ginger Ale",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "C Plus",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "Juice (Can)",
+        "restaurantID": 7,
+        "salePrice": "$2.19",
+        "description": ""
+    },
+    {
+        "name": "Ice Tea",
+        "restaurantID": 7,
+        "salePrice": "$2.99",
+        "description": ""
+    },
+    {
+        "name": "Bottle of Water",
+        "restaurantID": 7,
+        "salePrice": "$2.99",
+        "description": ""
+    },
+    {
+        "name": "Baked Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Crispy Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Chick Pea Veggie Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Pulled Pork Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Ground Beef Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Sweet Potato Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Bean and Cheese Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Veggie Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Jerk Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Buffalo Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "South West Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Tequila Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Lemon Tartar Fish Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Baja Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Sweet Chilli Chicken Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Shrimp Burrito",
+        "restaurantID": 9,
+        "salePrice": "$9.49",
+        "description": ""
+    },
+    {
+        "name": "Steak Burrito",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Butter Chicken",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Steak Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Buffalo Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Tequila Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Sweet Chili Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Baja Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Shrimp Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Jerk Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Cheese Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Ground Beef Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Pork Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Sweet Potato Quesadilla",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Regular Poutine",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Poutine Nachos",
+        "restaurantID": 9,
+        "salePrice": "$8.49",
+        "description": ""
+    },
+    {
+        "name": "Bacon Poutine",
+        "restaurantID": 9,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Pulled Pork Poutine",
+        "restaurantID": 9,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Poutine",
+        "restaurantID": 9,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Ground Beef Poutine",
+        "restaurantID": 9,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Steak Poutine",
+        "restaurantID": 9,
+        "salePrice": "$10.99",
+        "description": ""
+    },
+    {
+        "name": "Crispy Chicken Poutine",
+        "restaurantID": 9,
+        "salePrice": "$10.99",
+        "description": ""
+    },
+    {
+        "name": "French Fries",
+        "restaurantID": 9,
+        "salePrice": "$5.99",
+        "description": ""
+    },
+    {
+        "name": "Clasico Veggie Bowl",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Clasico Burrito Bowl",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Special Burrito Bowl",
+        "restaurantID": 9,
+        "salePrice": "$8.99",
+        "description": ""
+    },
+    {
+        "name": "Chicken Wings",
+        "restaurantID": 9,
+        "salePrice": "$9.99",
+        "description": ""
+    },
+    {
+        "name": "Chips and Salsa",
+        "restaurantID": 9,
+        "salePrice": "$3.49",
+        "description": ""
+    },
+    {
+        "name": "Chips and Guacamole",
+        "restaurantID": 9,
+        "salePrice": "$4.49",
+        "description": ""
+    },
+    {
+        "name": "Extreme Fries",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "1 Tacos",
+        "restaurantID": 9,
+        "salePrice": "$2.99",
+        "description": ""
+    },
+    {
+        "name": "3 Tacos",
+        "restaurantID": 9,
+        "salePrice": "$7.99",
+        "description": ""
+    },
+    {
+        "name": "Coca-Cola",
+        "restaurantID": 9,
+        "salePrice": "$2.50",
+        "description": ""
+    },
+    {
+        "name": "Coke",
+        "restaurantID": 9,
+        "salePrice": "$1.33",
+        "description": ""
+    },
+    {
+        "name": "Diet Coca-Cola",
+        "restaurantID": 9,
+        "salePrice": "$2.50",
+        "description": ""
+    },
+    {
+        "name": "Diet Coke",
+        "restaurantID": 9,
+        "salePrice": "$1.33",
+        "description": ""
+    },
+    {
+        "name": "Ginger Ale",
+        "restaurantID": 9,
+        "salePrice": "$1.33",
+        "description": ""
+    },
+    {
+        "name": "Iced Tea",
+        "restaurantID": 9,
+        "salePrice": "$1.33",
+        "description": ""
+    },
+    {
+        "name": "Jumex Juice",
+        "restaurantID": 9,
+        "salePrice": "$1.75",
+        "description": ""
+    },
+    {
+        "name": "Jarrito",
+        "restaurantID": 9,
+        "salePrice": "$2.25",
+        "description": ""
+    },
+    {
+        "name": "Water",
+        "restaurantID": 9,
+        "salePrice": "$1.20",
+        "description": ""
+    },
+    {
+        "name": "Chocolate Milk",
+        "restaurantID": 9,
+        "salePrice": "$2.25",
+        "description": ""
+    }
+]
