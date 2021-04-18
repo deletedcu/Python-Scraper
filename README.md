@@ -15,4 +15,7 @@ Extracts information about the restaurants and items in Canada
     <!-- Python -->
     <img src="https://img.shields.io/badge/Python-3776ab?flat=plastic&logo=python&logoColor=white" height="32" alt="Python" />
     &nbsp;
+    <!-- Visual Studio Code -->
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?flat=plastic&logo=visual%20studio%20code&logoColor=white" height="32" alt="Visual Studio Code" />
+    &nbsp;
 </p>
