@@ -12,10 +12,7 @@ Extracts information about the restaurants and items in Canada
 
 ## 🌱 Technologies and Frameworks
 <p>
-    <!-- Xcode -->
-    <img src="https://img.shields.io/badge/Xcode-147efb?flat=plastic&logo=xcode&logoColor=white" height="32" alt="Xcode" />
-    &nbsp;
-    <!-- Android Studio -->
-    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
+    <!-- Python -->
+    <img src="https://img.shields.io/badge/Python-3776ab?flat=plastic&logo=python&logoColor=white" height="32" alt="Python" />
     &nbsp;
 </p>
