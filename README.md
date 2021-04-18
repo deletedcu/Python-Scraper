@@ -1,4 +1,4 @@
-# python-scraper
+## python-scraper
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -10,4 +10,12 @@
 
 Extracts information about the restaurants and items in Canada
 
-
+## 🌱 Technologies and Frameworks
+<p>
+    <!-- Xcode -->
+    <img src="https://img.shields.io/badge/Xcode-147efb?flat=plastic&logo=xcode&logoColor=white" height="32" alt="Xcode" />
+    &nbsp;
+    <!-- Android Studio -->
+    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
+    &nbsp;
+</p>
