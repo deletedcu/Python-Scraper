@@ -19,7 +19,7 @@ Extracts information about the restaurants and items in Canada
     <img src="https://img.shields.io/badge/Homebrew-fbb040?flat=plastic&logo=homebrew&logoColor=black" height="32" alt="Homebrew" />
     &nbsp;
     <!-- Node.js -->
-    <img src="https://img.shields.io/badge/Node.js-339933?flat=plastic&logo=node-dot-js&logoColor=white" height="32" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?flat=plastic&logo=nodedotjs&logoColor=white" height="32" alt="Node.js" />
     &nbsp;
     <!-- Visual Studio Code -->
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?flat=plastic&logo=visual%20studio%20code&logoColor=white" height="32" alt="Visual Studio Code" />
